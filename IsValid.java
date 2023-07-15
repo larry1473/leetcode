@@ -23,10 +23,6 @@ public class IsValid {
         while (count < s.length()){
            if(stack.size() != 0 ){
                if(opens1.contains(stack.peek())){
-                  System.out.println(s.charAt(count));
-                  System.out.println(stack.peek());
-                  System.out.println(closes1.indexOf(s.charAt(count)));
-                  System.out.println(opens1.indexOf(stack.peek()));
                    if(closes1.indexOf(""+s.charAt(count)) == opens1.indexOf(stack.peek())){
                        stack.pop();
                    }
