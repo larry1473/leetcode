@@ -1,6 +1,6 @@
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code problem palindrome number. 
+ * This code solves the leetcode problem palindrome number. 
  * Memory usage:40 MB.
  * time taken by the code to solve the problem: 1ms.
  * Date: 2023-07-9.

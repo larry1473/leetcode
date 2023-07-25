@@ -1,7 +1,7 @@
 """
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code remove Element. 
+ * This code solves the leetcode problem remove Element. 
  * the trick here is to keep in mind that you are working on a 
  * dynamic array an every time you delete and element the array size changes. 
  * Memory usage:16.33 MB.

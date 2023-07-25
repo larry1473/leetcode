@@ -3,7 +3,7 @@ import java.util.Queue;
 import java.util.Stack;
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code problem palindrome number. 
+ * This code solves the leetcode problem palindrome number. 
  * Memory usage:43.5 MB.
  * time taken by the code to solve the problem: 615 ms.
  * Date: 2023-07-9.

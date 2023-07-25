@@ -1,7 +1,7 @@
 
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code problem twoSum
+ * This code solves the leetcode problem twoSum
  * time taken by the code to solve the problem:85ms
  * Date: 2023-07-9
  */

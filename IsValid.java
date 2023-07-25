@@ -5,7 +5,7 @@ import java.util.Stack;
 
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code problem is valid . 
+ * This code solves the leetcode problem is valid . 
  * Memory usage:44.15 MB.
  * time taken by the code to solve the problem: 70ms.
  * Date: 2023-07-9.

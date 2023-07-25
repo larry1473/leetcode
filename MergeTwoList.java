@@ -1,6 +1,6 @@
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code problem merge two list . 
+ * This code solves the leetcode problem merge two list . 
  * Memory usage:41.76 MB.
  * time taken by the code to solve the problem: 0 ms.
  * Date: 2023-07-15.

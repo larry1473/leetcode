@@ -1,7 +1,7 @@
 """
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code remove duplicate . 
+ * This code solves the leetcode problem remove duplicate . 
  * Memory usage:18 MB.
  * time taken by the code to solve the problem: 107 ms.
  * Date: 2023-07-24.

@@ -1,6 +1,6 @@
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code problem roman to integer.
+ * This code solves the leetcode problem roman to integer.
  * time taken by the code to solve the problem:6ms
  * the space used to solve this problem is:44 MB.
  * Date: 2023-07-13 
