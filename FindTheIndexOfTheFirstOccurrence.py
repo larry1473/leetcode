@@ -1,7 +1,7 @@
 """
 /**
  * @author Larry Fotso Guiffo.
- * This code solves the leet code probblem find the index of the first occurrence of a string in a strin. 
+ * This code solves the leet code problem find the index of the first occurrence of a string in a string. 
  * the trick here is to keep in mind that you are working on a 
  * dynamic array an every time you delete and element the array size changes. 
  * Memory usage:16.33 MB.
