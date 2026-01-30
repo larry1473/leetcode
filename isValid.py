@@ -9,5 +9,4 @@ def is_valid(s: str) -> bool:
             if not stack or stack[-1] != pairs[c]:
                 return False
             stack.pop()
-
     return not stack
