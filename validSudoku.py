@@ -1,7 +1,8 @@
-   def isValidSudoku(self, board: List[List[str]]) -> bool:
-        row = collections.defaultdict(set)
-        col = collections.defaultdict(set)
-        square = collections.defaultdict(set)
+from collections import defaultdict
+def isValidSudoku(board):
+        row = defaultdict(set)
+        col = defaultdict(set)
+        square = defaultdict(set)
 
         for r in range(len(board)):
             for c in range(len(board)):
